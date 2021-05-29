@@ -1,3 +1,13 @@
+# form-upload
+
+### npm start to start the express server
+### npm start to start the react app and node server.js to start the express server
+
+File will be stored in doc-storage folder
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
